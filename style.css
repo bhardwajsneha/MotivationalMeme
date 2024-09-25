@@ -1,0 +1,26 @@
+html{
+    background-color: #DCA47C;
+}
+
+img{
+   
+    border: 5px #405D72;
+    width: 100%;
+}
+
+h1{
+    font-family: "Libre Baskerville", serif;
+    color: #405D72;
+}
+
+p{
+    color: #131842;
+    font-size: 22px;
+}
+
+.box{
+    width: 50%;
+    margin-left: 25%;
+
+}
+
